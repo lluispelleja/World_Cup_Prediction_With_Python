@@ -1,0 +1,14 @@
+As we have seen in the analysis, the goals scored and goals conceded 
+metrics are not enough to generate an accurate prediction, since in a 
+football game there are many other factors than the goals that each team 
+can score per game.
+
+In this case, as a practice, it works well for us to help us use the 
+Pandas library and improve the understanding of the code, but in the case 
+of making a good prediction we should take more factors into account.
+
+In the second notebook entitled "final_and_champion_WC2022.ipynb" I show 
+the prediction of the semifinals, the match for third place and the 
+championship final, despite not being a very accurate prediction, I can 
+say that I think this time it can be valid since it shows the results that 
+the vast majority of the population thinks will happen.
